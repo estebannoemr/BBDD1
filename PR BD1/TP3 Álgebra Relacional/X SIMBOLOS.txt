@@ -1,0 +1,32 @@
+Ø -> conjunto vacío
+
+SELECCION -> σ (sigma)
+
+PROYECCIÓN -> π (pi)
+elimina tuplas duplicadas
+
+UNIÓN -> ∪
+elimina tuplas duplicadas
+
+INTERSECCIÓN -> ∩
+
+PRODUCTO CARTESIANO -> x
+concatena cada tupla de T1 con todas las tuplas de T2
+
+PRODUCTO NATURAL -> |x|
+
+PRODUCTO TITA -> |X|θ
+
+DIFERENCIA -> -
+
+DIVISIÓN -> %
+
+RENOMBRE -> ρ
+
+ASIGNACIÓN -> A <= Consulta
+
+MODIFICACIÓN -> δ
+
+
+
+

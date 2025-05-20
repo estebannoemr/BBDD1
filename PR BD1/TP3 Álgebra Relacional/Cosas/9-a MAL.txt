@@ -1,0 +1,2 @@
+TODOS_TIPOS <- π (id_mueble) MUEBLE % (π (id_tipomadera) TIPOMADERA)
+π (nombrefabricante) FABRICANTE |X| TODOS_TIPOS

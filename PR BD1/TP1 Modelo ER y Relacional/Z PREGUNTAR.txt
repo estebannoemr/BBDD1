@@ -1,0 +1,2 @@
+10 -> categoria de habitacion lo dejo como atributo?
+11 -> modelo relacional -> categoria de producto?

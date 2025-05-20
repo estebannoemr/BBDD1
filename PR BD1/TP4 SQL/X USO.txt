@@ -1,0 +1,2 @@
+USE bd1;
+SELECT * FROM doctor;

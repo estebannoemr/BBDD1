@@ -1,0 +1,2 @@
+Lo importante a tener en cuenta a la hora de asignarle permisos a un usuario de una base de datos es que estos deber ser los minimos y necesarios que éste necesita. De esta manera, un buen uso de la asignación de permisos conlleva a que los problemas de seguridad se disminuyan.
+

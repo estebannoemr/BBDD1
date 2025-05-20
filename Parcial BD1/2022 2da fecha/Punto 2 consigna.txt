@@ -1,0 +1,23 @@
+Normalización
+Dado el siguiente esquema:
+LOGISTICA (#envio, fecha_creacion, fecha_entrega, costo_envio, #domicilio, localidad, calle, numero, cuil_cliente, nombre_apellido, fecha_nacimiento, #producto, nombre_producto, marca, f_inicio_precio, precio_producto, patente_transporte)
+
+De los clientes se conoce su CUIL, nombre y apellido, y fecha de nacimiento.
+
+De los productos se conoce su nombre, marca y se lleva registro de la variación de precio, registrando la fecha de inicio del precio y el valor. Un producto no puede cambiar de precio más de una vez en una fecha determinada.
+
+De cada cliente se registran los domicilios a los que se le han enviado productos. De cada domicilio se conoce calle, número y localidad. No hay garantías de que no existan dos domicilios con el mismo número, calle y localidad. Además, varios clientes pueden acusar un mismo domicilio.
+
+De cada envío se registra su fecha de creación, fecha de entrega, costo, el cliente y el domicilio en que debe entregarse. El #envio es único en el sistema.
+
+En un envío pueden distribuirse uno o más productos.
+
+Se conocen las patentes de los transportes con los que opera la empresa.
+
+Aplicar y explicar el proceso de normalización (el esquema ya está en 1FN).
+
+
+
+
+
+

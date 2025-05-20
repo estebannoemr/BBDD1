@@ -1,0 +1,3 @@
+2 motivos por los cuales necesitaría definir una vista:
+- Simplicidad: las vistas simplifican consultas complejas al encapsular lógica complicada (como JOINs o filtros) en una sola consulta que se puede reutilizar fácilmente.
+- Seguridad: permiten limitar el acceso a datos sensibles mostrando solo la información necesaria, sin exponer las tablas originales ni otorgar permisos directos sobre ellas.

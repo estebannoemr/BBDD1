@@ -1,0 +1,40 @@
+- de barras, dado que permiten comparar valores numéricos, usando la longitud de cada barra para representar el valor de cada variable (en este caso, x). Al ser + de 5 categorías no elijo el gráfico de torta. El eje X serían los productos y el eje Y las cantidades.
+También pueden mostrar medidas durante un período de tiempo específico.
+
+Más concretamente, usaría un histograma, en el que las barras están pegadas entre sí, porque permite visualizar cómo se agrupan los datos en distintos intervalos de edad.
+
+
+- líneas, dado que muestra las relaciones de los cambios en los datos en un período de tiempo. El eje X sería el tiempo y en el eje Y sería el caudal del río.
+Se pueden utilizar múltiples líneas para comparar distintas categorías de una dimensión.
+
+
+- de torta, ya que se utiliza para mostrar cómo unas pocas variables se comparan en porcentaje entre ellas y con el total -> las variables deben ser entre 2 y 5 -> en este caso son 5. Cada porción del círculo representará la proporción de préstamos por género
+Si serían + de 5 géneros, un gráfico de barras sería el indicado.
+
+
+- de dispersión, dado que son útiles para mostrar la correlación entre 2 variables. El eje X serían los precios y el eje Y la puntuación.
+
+
+- burbujas: variación del gráfico de dispersión en el que los puntos de datos se reemplazan por burbujas y el tamaño de las burbujas representa una dimensión adicional de los datos.
+
+
+- treemap, dado que es una representación gráfica de datos jerárquicos en forma de rectángulos que ocupan el total del espacio de forma proporcional al valor de una variable. Son útiles para visualizar una gran cantidad de categorías relacionadas.
+
+
+- nube de palabras, dado que permite identificar e interpretar de manera rápida y sencilla las palabras con > relevancia en el texto analizado.
+
+
+- Infografía: es una imagen grande y + elaborada. Buena cuando se utiliza los datos p/ compartir info, difundirla y generar discusión. Se combinan iconos, símbolos, mapas y gráficos sencillos para explicar los datos. El texto solo se usa como etiquetas o para describir brevemente hechos.
+
+
+- mapa de área, dado que representan valores en diferentes tonos de color en una región geográfica. Las provincias que tengan + densidad tendrán un tono + oscuro.
+
+
+
+
+
+
+
+
+
+

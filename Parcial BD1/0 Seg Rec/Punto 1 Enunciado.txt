@@ -1,0 +1,16 @@
+Se desea modelar un sistema de administración de expedientes judiciales.
+
+De cada expediente se conoce número (no se repite para diferentes expedientes), prefijo, sufijo, carátula y fecha de inicio. Los expedientes tramitan en distintos juzgados de los cuales se conoce nombre, fuero (civil, laboral, familia, penal, etc.) y ubicación y un código que se le asigna a cada juzgado de manera única.
+
+Un expediente tramita ante uno o más juzgados, esto debido a que los expedientes pueden moverse entre juzgados. De cada expediente en cada juzgado se conoce fecha de inicio y fecha de fin. Un juzgado puede tratar más de un expediente a la vez y no puede pasar más de una vez el mismo expediente por un juzgado.
+
+En un expediente existen dos partes involucradas, un demandante y un demandado, es importante poder identificar estos roles. Estas partes pueden ser físicas o jurídicas. De todas las partes se conoce dirección y teléfono de contacto. De las partes físicas se conoce nombre, apellido y DNI, mientras que de las partes jurídicas se sabe su razón social y cuit.
+
+Todas las partes están representadas por varios abogados, es necesario registrar todos los abogados de una parte. De los abogados se conoce su número de matrícula (es único) y nombre completo, y podrían representar a varias partes.
+
+Si bien una parte puede tener varios abogados, solo uno de los abogados que lo representa puede hacerlo en un expediente en particular. Se debe conocer qué abogado representa a cada una de las partes involucradas en el expediente. Considerando que una parte puede elegir diferentes abogados para diferentes expedientes.
+
+Actividades:
+
+Realizar el modelo E/R
+Realizar la transformación 1 a 1 del modelo de E/R al modelo relacional.

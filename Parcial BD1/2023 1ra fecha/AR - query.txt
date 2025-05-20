@@ -1,0 +1,27 @@
+group: actividades
+
+PROYECTO = { proyecto
+p1
+p2
+p3
+p4
+
+}
+ACTIVIDAD = { proyecto actividad
+p1 a1
+p1 a2
+p1 a3
+p2 a4
+p3 a5
+p3 a6
+}
+
+COMENTARIO = { id actividad
+1 a1
+2 a1
+3 a2
+4 a4
+5 a6
+6 a6
+7 a6
+}

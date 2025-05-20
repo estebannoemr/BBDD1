@@ -1,0 +1,22 @@
+1. Que son los modelos lógicos basados en objetos?  Cual se vio en la teoría ? Nombre los componentes.
+
+2. Explicar la division en la Algebra Relacional. Que condiciones deben darse. Ejemplificar una operación A / B = C y explicar como el proceso.
+
+3. En general, que son las formas normales ?
+
+4. Que implica que un atributo sea primo y en que forma normal se utiliza?
+
+5. Normalizacion, verificar en que formas normales esta el siguiente esquema, explicar el proceso y realizar la verificación de si esta en 4FN, si no lo esta realizar el proceso.
+    
+    VIAJES(idVendedor, idCliente, idDestino, dueño)
+    
+    - Los dueños representan los dueños de las sucursales
+    - Los vendedores venden viajes a los clientes a un destino.
+
+6. Cuando se usa la agregación ? Que condiciones deben darse ? Dar un ejemplo en esquema ER y realizar la transformación 1 a 1 al modelo relacional
+
+
+
+
+
+

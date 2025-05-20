@@ -1,0 +1,2 @@
+SONCHOFERES <- π id_dueño, dueño.nombre, dueño.telefono, dueño.direccion, dueño.dni (DUEÑO |X| (dueño.dni = chofer.dni) CHOFER)
+π dni, nombre, telefono (DUEÑO - SONCHOFERES)
